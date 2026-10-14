@@ -902,6 +902,9 @@ st.markdown(
     div[data-testid="stChatInput"] button:active {
         transform: scale(0.95) !important;
     }
+
+    .st-emotion-cache-2e5lff{   margin-top:-50px;  }
+    
 </style>
 """,
     unsafe_allow_html=True,
