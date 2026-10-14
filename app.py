@@ -1324,7 +1324,7 @@ with top_col_chat:
         with a_col_left:
             st.markdown(
                 '<div class="arena-title-wrap">'
-                "<span>🌾 உழவர் ஆலோசனை அரங்கம்</span>"
+                "<span style=margin-top:-5px;>🌾 உழவர் ஆலோசனை அரங்கம்</span>"
                 "</div>",
                 unsafe_allow_html=True,
             )
@@ -1348,8 +1348,8 @@ with top_col_hist:
             st.markdown(
                 f"""
             <div class="history-title-badge-block">
-                <span>🕘 உரையாடல்கள்</span>
-                <span class="arena-count-pill">{total_sessions}/{MAX_HISTORY}</span>
+                <span style="margin-top:-5px;">🕘 உரையாடல்கள்</span>
+                <span class="arena-count-pill" style="margin-top:-5px;>{total_sessions}/{MAX_HISTORY}</span>
             </div>
             """,
                 unsafe_allow_html=True,
