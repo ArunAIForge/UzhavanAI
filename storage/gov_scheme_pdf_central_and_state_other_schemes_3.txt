@@ -1,0 +1,255 @@
+GOVERNMENT PDF SOURCE: https://agritech.tnau.ac.in/govt_schemes_services/Guideline_nfsmandoilseed201819to201920%202018%20-%202020%20food.pdf
+CATEGORY: Central_and_State_Other_Schemes
+TYPE: Official Scheme Circular
+============================================================
+
+RE-VAMPED
+NATIONAL FOOD SECURITY MISSION
+(NFSM)
+OPERATIONAL GUIDELINES 
+ (2018-19 to 2019-20)
+Department of Agriculture, Cooperation and Farmers Welfare
+Ministry of Agriculture and Farmers Welfare
+Government of India
+Krishi Bhawan, New Delhi-110001
+August, 2018
+
+FOREWORD
+rd
+As per Resolution passed in the 53  meeting of National Development Council (NDC) 
+to launch a Food Security Mission comprising rice, wheat and pulses, the National Food 
+Security Mission (NFSM) was launched during October, 2007.
+The Mission met with an overwhelming success and achieved the targeted additional 
+th
+production of rice, wheat and pulses. The Mission continued during 12  Five Year Plan with 
+th
+new targets of additional production of foodgrains of 25 million tonnes by the end of 12  Plan. 
+Coarse cereals and commercial crops were also included in the Mission. Considering the 
+experiences and feedback received from the States, major changes were made in approach, 
+norms of financial assistance and programme implementation strategy.
+th
+Based on past experiences and performance of 12  plan, it has been decided to 
+th
+continue the programme beyond 12  plan from 2017-18 to 2019-20, which is co-terminus with 
+Fourteenth Finance Commission (FFC) period with new targets and modifications required. 
+Based on the feedback from the states, with the approval of the General Council of the 
+National Food Security Mission headed by the Union Minister of Agriculture & Farmers' 
+Welfare, changes have been made to modify/include/clarify some of the guidelines, keeping 
+in mind the greater interest of the farmers and demand from the States. From the year 2018- 
+19, nutri-cereals, oilseed crops and Seed Village Programme have also been brought under 
+the canopy of NFSM.
+The focused approach of the Mission is to provide funds to beneficiaries through 
+Direct Benefit Transfer (DBT) by the States. Provisioning of dedicated project management 
+teams for catalyzing result oriented implementation will benefit millions of farmers across the 
+country in the targeted States/Districts. 
+The first and second editions of Operational Guidelines had been useful for the States 
+in the preparation and implementation of the State Action Plans as per the Mission's 
+objectives, programme interventions and norms of assistance. 
+This revised booklet of operational guidelines of re-vamped NFSM containing all the 
+modifications/clarifications is being brought out for the benefit of the field functionaries to 
+ensure clarity in implementation of the programmes. 
+I am sure DAC&FW and State Governments will disseminate these revised guidelines 
+among all the stakeholders of the Mission including central & international agencies so as to 
+enable them to contribute their utmost in this noble endeavor of ensuring food and nutritional 
+security for the country.
+      
+New Delhi    (S.K. Pattanayak)
+September, 2018
+Government of India
+Ministry of Agriculture & Farmers Welfare
+Department of Agriculture, Cooperation
+& Farmers Welfare
+DR. S.K. PATTANAYAK
+
+TABLE OF CONTENTS
+ S.No. Contents Page
+   No.
+Part–I(A) National Food Security Mission (NFSM) Foodgrain Crops
+ 1 Introduction  1
+ 2 Objectives 1
+ 3 Strategy 2
+ 4 Structure 2
+ 4.1 National Level 2
+ 4.2 State Level 4
+ 4.3 District Level 5
+ 4.4 Project Management Team 6
+ 5 Role of Panchayati Raj Institutions 7
+ 6 Area of Operation of National Food Security Mission 7
+ 7 Mechanism of Fund Flow 8
+ 8 Procedure for Approval and Implementation 9
+ 9 Monitoring mechanism 9
+ 10 Reporting System 10
+ 11 Evaluation 10
+ 12 Criteria for Identification of Areas and Beneficiaries 11
+ 13 Position of Ongoing Schemes 11
+ 14 Interventions  11
+ 14.1 Accelerated Crop Production Programme (ACPP) 12
+ 14.2 Need based inputs (Seed, Nutrients, Soil Ameliorants, Bio 
+   fertilizers, Plant Protection, Farm Machines and  15  
+   Training) 
+ 14.3 Commercial Crop-based cropping system 21
+ 14.4 Research support 21
+ 14.5 Other initiatives 22
+ 14.6 Exposure visit to international organizations 25
+ 14.7 Awards 25
+ 14.8 Miscellaneous Expenses 26
+      Annexure-I(a) Crop-wise number of Districts, number of States and 
+   District Project Management Team (PMT) in NFSM States 27
+      Annexure-I(b) Name of PMT Districts and states 28 
+      Annexure-I(c) Basic qualification, experience and honorarium of 
+  Advisors/Consultants/Technical Assistants (TA) 34
+i
+
+Annexure-I(d) Duties of Consultants and Technical Assistants under NFSM  
+  at National, State and District level 39
+ Annexure-I(e) NFSM model activity plan (MAP) 43
+ Annexure-II(a) Districts covered under NFSM-Rice 46
+ Annexure-II(b) Districts covered under NFSM-Wheat 49
+ Annexure-II(c) Districts covered under NFSM-Pulses 51
+ Annexure-II(d) Districts covered under NFSM-Coarse Cereals (Maize & 
+  Barley) 61
+ Annexure-III(a) Action Plan for NFSM-Rice 66
+ Annexure-III(b) Action Plan for NFSM-Wheat 68
+ Annexure-III(c) Action Plan for NFSM-Pulses 70
+ Annexure-III(d) Action Plan for NFSM-Coarse Cereals 73
+ Annexure-IV(a) Quarterly/Annual Progress Report of NFSM-Rice 74
+ Annexure-IV(a-i) Progress of component-wise SC/ST and women farmers 
+  being benefitted from NFSM-Rice   77
+ Annexure-IV(b) Quarterly/Annual Progress Report of NFSM-Wheat 78
+ Annexure-IV(b-i) Progress of component-wise SC/ST and women farmers 
+  being benefitted from NFSM-Wheat   80
+ Annexure-IV(c) Quarterly/Annual Progress Report of NFSM-Pulses 81
+ Annexure-IV  Progress of component-wise SC/ST and women farmers 
+ (c-i) being benefitted from NFSM-Pulses  85
+ Annexure-IV(d) Quarterly/Annual Progress Report of NFSM-Coarse Cereals 86
+ Annexure-IV  Progress of component-wise SC/ST and women farmers 
+ (d-i) being benefitted from NFSM-Coarse Cereals 87
+ Annexure-V Summary of Pattern of Assistance 88
+ Annexure-VI Cafeteria  of Interventions for Cluster Demonstrations 99
+ Annexure-VII Component-wise financial provision for promotion of FPOs 
+  and marketing support for value chain integration 103
+ Part–I(B) National Food Security Mission (NFSM)-Nutri-Cereals
+ 1 Introduction 105
+ 2 Objectives 105
+ 3 Interventions/Strategies Proposed 106
+ 4 Criteria for selection of Districts 106
+ 5 Demonstrations 107
+    5.1 Size of cluster demonstrations 107
+    5.2 Cluster Front Line Demonstrations (CFLDs) 109
+ 6 Need based inputs 110
+ 7 Incentives for seed production 112
+ii
+
+8 Seed Minikits Programme of Nutri-Cereals 112
+ 9 Farmer Producer Organizations 113
+    9.1 Demonstration cum Training Centres 114
+    9.2 Processing Cluster 114
+   10 Research Support 115
+   11 Flexi Interventions 116
+   12 Awareness, Publicity and Promotion 116
+   13 Reporting System 117
+ Annexure-VIII(a)  Name of Districts covered (identified) under NFSM
+  on Nutri-Cereals (2018-19 and 2019-20) 118
+ Annexure-VIII(b)  Cafeteria for Block demonstrations of Millets 123
+ 
+ Annexure-VIII(c)  Action Plan for NFSM-Nutri-Cereals 124
+ 
+ Annexure-VIII(d)  Quarterly/Annual Progress Report on NFSM-Nutri-Cereals 127
+ 
+ Annexure-VIII  Progress of component-wise SC/ST and women farmers 
+ (d)-i being benefitted from NFSM-Nutri-Cereals 130
+iii
+
+TABLE OF CONTENTS
+ S.No. Contents Page 
+   No.
+Part-II National Food Security Mission (NFSM)-Commercial Crops 
+ 1 Introduction  131
+ 2 Funding Pattern 131
+ 3 Implementing Agencies  132
+ 4 Role of Panchayati Raj Institutions 132
+ 5 Procedure for Approval and Implementation 133
+ 6 Monitoring Mechanism  133
+ 7 Evaluation  133
+ 8 Reporting 134
+ 9 Components of NFSM-Commercial Crops 134
+ 10 Cotton based cropping system 134
+    10.1 Insecticide Resistance Management (IRM) 134
+    10.2 On Line Pest Monitoring and Advisory Services (OPMAS) 135
+    10.3 Front Line Demonstrations (FLD) 135
+    10.4 Trials on High Density Planting System (HDPS) 135
+    10.5 National/State Level Training 136
+    10.6 Distribution of plant protection chemicals & bio-agents 136
+ 11 Jute & Allied fibres Based Cropping Systems 136
+    11.1 Jute seed production 137
+    11.2 FLDs on alternate retting technologies 137
+    11.3 FLDs on production technology/intercropping 137
+    11.4 National/State level training 138
+    11.5 Distribution of certified seeds, nail weeder & microbial 
+  consortium 138
+ 12 Sugarcane Based Cropping System 138
+    12.1 Demonstrations on Intercropping & single bud chip 
+  technology with sugarcane 138
+    12.2 Assistance for breeder seed production 139
+    12.3 Tissue culture raised plantlets/seedlings 139
+    12.4 National /State level training 139
+    12.5 Distribution of plant protection chemicals & bio-agents 139
+ Annexure-IX Commercial crop based cropping system linked with food 
+  crops 140
+iv
+
+Annexure-X(a) Action Plan for NFSM-Cotton 141
+ Annexure-X(b) Action Plan for NFSM-Jute & Allied Fibres  142
+ Annexure-X(c) Action Plan for NFSM-Sugarcane 143
+ Annexure-XI Quarterly progress report of Insecticide Resistance 
+  Management (IRM) under Cotton 144
+ Annexure-XII Annual progress report of IRM under Cotton 145
+ Annexure-XIII Quarterly progress report of OPMAS under Cotton 146
+ Annexure-XIV Annual progress report of OPMAS under Cotton 147
+ Annexure-XV Quarterly/Annual Progress Report of NFSM-Cotton 148
+ Annexure-XVI Quarterly/Annual Progress Report of NFSM-Jute & 
+  Allied Fibres  149
+ Annexure-XVII Quarterly/Annual Progress Report of NFSM-Sugarcane 150
+ Annexure-XVIII Components and Pattern of Assistance under NFSM-
+  Commercial Crops 151
+v
+
+vi
+TABLE OF CONTENTS
+ S.No. Contents Page 
+   No.
+  Part–III National Food Security Mission (NFSM)-Oilseeds & Oil Palm 
+ 1 Introduction  154
+ 2 Objectives/Targets 156
+ 3 Strategy 156
+ 4 Structure 157
+    4.1 National Level 157
+    4.2 State Level 158
+    4.3 District Level 158
+ 5 Funding Pattern & Fund Flow 158
+ 6 Area of Operation 160
+ 7 Monitoring, Reporting and Evaluation 161
+    7.1 Monitoring or Evaluation 161
+    7.2 Reporting System 162
+    7.3 Awards 162
+ 8 Interventions 162
+    8.1 NFSM-Oilseeds 162
+    8.2  NFSM-Oil Palm 176
+    8.3 NFSM-TBOs 183
+ Annexure-XIX Pattern of sharing and Rate of Assistance for various 
+  interventions of NFSM-Oilseeds 187
+ Annexure-XX  Format for submission of Annual Action Plan for NFSM 
+  (OS & OP) 191
+ Annexure-XXI  Format for submission of Monthly/Quarterly Progress 
+  Report (MPR/QPR) under NFSM-Oilseeds 197
+ Annexure-XXII Pattern of sharing and Rate of Assistance for various 
+  interventions of NFSM-Oil Palm w.e.f. 2018-19 198
+ Annexure-XXIII Format for submission of Annual Action Plan under 
+  NFSM-Oil Palm 202
+ Annexure-XXIV Format for submission of monthly and quarterly progress 
+  report NFSM-Oil Palm 204
+ Annexure-XXV Pattern of sharing and Rate of Assistance for various 
+  interventions of NFSM-TBOs w.e.f. 2018-19 207 
+ Annexure-XXVI Format for submission of Annual Action Plan NFSM-TBOs 210 
+ Annexure-XXVII  Format for submission of monthly and quarterly progress 
+  report NFSM-TBOs 211

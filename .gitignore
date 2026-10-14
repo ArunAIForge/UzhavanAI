@@ -1,0 +1,33 @@
+@'
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Streamlit temporary data
+.streamlit/secrets.toml
+
+# Vector index & Local Storage caches
+storage/faiss_index/
+storage/faiss_backups/
+storage/pdfs/
+data/
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+'@ | Out-File -Encoding utf8 .gitignore

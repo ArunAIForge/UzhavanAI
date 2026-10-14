@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+httpx
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+openai
+faiss-cpu
+rank-bm25
+flashrank
+pypdf
+beautifulsoup4
+playwright
+python-dotenv
+tiktoken

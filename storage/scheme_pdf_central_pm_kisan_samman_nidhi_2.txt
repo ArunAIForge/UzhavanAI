@@ -1,0 +1,534 @@
+SCHEME JURISDICTION: Central Government Scheme (Official Circular)
+SCHEME IDENTIFIER: PM KISAN Samman Nidhi
+OFFICIAL PDF: https://agritech.tnau.ac.in/pdf/food_security/NFSM-RICE_PULSE_GUIDELINES.pdf
+=================================================================
+
+Department of Agriculture & Cooperation 
+Ministry of Agriculture
+Government of India
+Operational Guidelines
+National Food Security
+Mission
+
+Government of India
+Ministry of Agriculture
+Department of Agriculture & Cooperation
+March, 2009
+National Food Security Mission
+Operational Guidelines
+(As revised on 1st March, 2009)
+(i)
+
+FOREWORD
+The National Food Security Mission launched during October, 2007 has begun
+well in its initial phase of implementation. The experiences of administering this
+scheme during the first agriculture year of its implementation have been very satisfying
+in terms of ensuring quality of delivery of agricultural services to the farmers and good
+outcome achieved in the process. The focused approach of the mission with direct
+funding arrangement to the State and District level autonomous agencies and
+provisioning of dedicated project management teams for catalyzing result oriented
+implementation has been benefiting millions of farmers across the country in the
+targeted States and the Districts.
+The first edition of Operational Guidelines had been useful for the States in the
+preparation and implementation of the State Action Plans as per the Mission's
+objectives, programme interventions, and norms of assistance. However, while
+implementing the scheme, various States and Districts expressed practical operational
+problems in ensuring wider coverage, clarity on subsidy administration and for
+effective project management. Based on the feedback from the states, with the
+approval of the General Council of the National Food Security Mission headed by the
+Union Agriculture Minister, timely changes have been made to modify/include/clarify
+some of the guidelines, keeping in mind the greater interest of the farmers and demand
+from the States.
+This revised booklet of operational guidelines containing all the modifications/
+clarifications is being brought out for the benefit of the field functionaries to ensure
+clarity in implementation of the programmes.
+I am sure State Governments will disseminate these revised guidelines among
+all the stakeholders of the Mission so as to enable them to contribute their utmost
+in this noble endeavor of ensuring food security for the country.
+New Delhi (T. Nanda Kumar)
+2nd April, 2009
+Hkkjr ljdkj
+Ñf"k ea=kky;
+Ñf"k ,oa lgdkfjrk foHkkx
+Government of India
+Ministry of Agriculture
+Department of Agriculture & Cooperation
+Office : Krishi Bhawan, New Delhi-110001, nwjHkk"k/ Phone : 23382651, 23388444, QSDl la-/ Fax No. : 23386004
+E-mail : secyagri.krishi@nic.in
+Vhõ uUn dqekj] vkbZõ,õ,l
+lfpo] Hkkjr ljdkj
+T. Nanda Kumar, I.A.S
+Secretary
+Government of India
+(iii)
+
+TABLE OF CONTENTS
+1. Introduction 1
+2. Mission Objectives 1
+3. Strategy 1
+4. Mission Structure 1
+5. Role of Panchayati Raj Institutions 5
+6. Area of Operation of Food Security Mission 5
+7. Mechanism of Fund Flow 5
+8. Monitoring 5
+9. Reporting System 6
+10. Evaluation 6
+11. Criteria for Identification of Areas and Beneficiaries 7
+12. Procedure for Approval and Implementation of Annual plans 7
+13. Position of Ongoing Schemes 8
+14. Mission Interventions 8
+Annexure-I - Basic qualification and experience of
+Technical consultants 27
+Annexure-II (a) - NFSM-Rice Districts 29
+Annexure-II (b) - NFSM-Wheat Districts 31
+Annexure-II (c) - NFSM-Pulses Districts 33
+Annexure-III - Summary of Pattern of assistance for
+components of NFSM-Rice/Wheat/pulses 37
+Annexure-III(a) - Pattern of assistance for components of
+NFSM-rice 42
+Annexure-III(b) - Pattern of assistance for components of
+NFSM-wheat 45
+Annexure-III(c) - Pattern of assistance for components of
+NFSM-Pulses 48
+Annexure-IV - Duties of Consultsnts/TAs engaged at
+national/state/district levels 51
+(v)
+
+ABBREVIATIONS
+ATMA Agricultural Technology Management Agency
+APR Annual Progress Report
+AISLUS All India Soil and Land Use Survey
+CRRI Central Rice Research Institute
+CSC Central Seeds Committee
+CIAE Central Institute of Agricultural Engineering
+CYMMIT Inte rnational Maize and Wheat Improvement Center
+DAC Department of Agriculture and Cooperation
+DFSMEC District Food Security Mission Executive Committee
+DRR Directorate of Rice Research
+DWR Directorate of Wheat Research
+GC General Council
+HYV High Yielding Variety
+ICAR Indian Council of Agricultural Research
+ICDP Integrated Cereal Development Programme
+ICRISAT International Crops Research Institute for the Semi – Arid Tropics
+IFFCO Indian Farmers Fertilizers Cooperative Limited
+IISS Indian Institute of Soil Science
+IIPR Indian Institute of Pulses Research
+INM Integrated Nutrient Management
+ISOPOM Integrated Scheme for Oilseeds, Pulses, Oil palm and Maize
+IPM Integrated Pest Management
+KRIBHCO Krishak Bharati Cooperative Limited
+KVK Krishi Vigyan Kendra
+NAFED National Agricultural Cooperative Marketing Federation of India Limited
+NAIP National Agricultural Innovation Project
+NALMOT National Level Monitoring Team
+NDC National Development Council
+NSC National Seeds Corporation
+NFSM National Food Security Mission
+NFSMEC National Food Security Mission Executive Committee
+NGO Non-Government Organizations
+QPR Quarterly Progress Reports
+PMT Project Management Team
+SAMETI State Agricultural Management and Extension Training Institute
+SAU State Agricultural University
+SC Schedule Caste
+SC Seed Committee
+SCP Special Component Plan
+SRI System of Rice Intensification
+SRR Seed Replacement Rate
+SFCI State Farms Corporation of India
+SFSMEC State Food Security Mission Executive Committee
+SSC State Seed Corporation
+ST Schedule Tribe
+TSP Tribal Sub-Plan
+(vi)
+
+1
+1. Introduction
+1.1 The National Development Council
+(NDC) in its 53 rd meeting held on 29 th May,
+2007 adopted a resolution to launch a Food
+Security Mission comprising rice, wheat and
+pulses to increase the production of rice by 10
+million tons, wheat by 8 million tons and
+pulses by 2 million tons by the end of the
+Eleventh Plan (2011-12). Accordingly, a
+Centrally Sponsored Scheme, 'National Food
+Security Mission' (NFSM), has been launched
+from 2007-08 to operationalise the above
+mentioned resolution.
+1.2 The National Food Security Mission
+will have three components (i) National Food
+Security Mission - Rice (NFSM-Rice); (ii)
+National Food Security Mission - Wheat
+(NFSM-Wheat); and (iii) National Food Security
+Mission - Pulses (NFSM-Pulses).
+2. Mission Objectives
+2.1 Increasing production of rice, wheat
+and pulses through area expansion and
+productivity enhancement in a sustainable
+manner in the identified districts of the
+country;
+2.2 Restoring soil fertility and productivity
+at the individual farm level;
+2.3 Creation of employment opportunities;
+and
+2.4 Enhancing farm level economy (i.e.
+farm profits) to restore confidence amongst
+the farmers.
+3. Strategy
+3.1 To achieve the above objectives, the
+National Food Security Mission
+Operational Guidelines
+Mission would adopt following strategies:
+i. Implementation in a mission mode
+approach  through active
+engagement of all the stakeholders
+at various levels.
+ii. Promotion and extension of
+improved technologies i.e., seed,
+Integrated Nutrient Man agement
+(INM) including micronutrients,  soil
+amendments, Integrated Pest
+Management (IPM) and resource
+conservation technologies along
+with capacity building of the farmers.
+iii. Flow of fund would be closely
+monitored to ensure that
+interventions reach the target
+beneficiaries on time.
+iv. Various interventions proposed
+would be integrated with the district
+plan and targets for each identified
+district would be fixed.
+v. Constant monitoring and concurrent
+evaluation for assessing the impact
+of the interventions for a result
+oriented approach by the
+implementing agencies.
+4. Mission Structure
+4A. National Level
+4.1 A General Council (GC) will be
+constituted under the chairmanship of the
+Union Agriculture Minister. A Mission Director
+will be appointed at the national level. The
+composition of the GC will be as under:
+(i) Minister of Agriculture Chairman
+(ii) Secret ary (A&C) Member
+
+2
+(iii) Secretary (DARE) & Member
+DG (ICAR)
+(iv) Secretary, Ministry of Member
+Finance
+(v) Adviser (Agriculture), Member
+Planning Commission
+(vi) Agriculture Commissioner Member
+(vii) Missi on Director Member
+Secretary
+4.2 The GC will be the policy making
+body providing suitable directives and
+guidance to the Mission and reviewing the
+overall progress and development of the
+scheme. The GC will be empowered to lay
+down and amend the operational guidelines,
+decide need based reallocation of resources
+across states and districts and approve projects
+as per the requirements. However, the subsidy
+norms as approved by the Government shall
+in no circumstances be exceeded for any of
+the Mission components. The GC will meet
+at least twice a year.
+4.3 A National Food Security Mission
+Executive Committee (NFSMEC) will be
+constituted under the Chairmanship of
+Secretary, Department of Agriculture &
+Cooperation to oversee the activities of the
+Mission and to approve the State Action Plans.
+The NFSMEC  will comprise the following:
+(i) Secretary (A&C) Chairman
+(ii) Secret ary (DARE) &
+DG (ICAR) Member
+(iii) Secretary, MOWR Me mber
+(iv) Secretary, Department
+of Fertilizers Member
+(v) Adviser (Agriculture),
+Planning Commission Member
+(vi) Agriculture Commissioner Member
+(vii) Five (5) experts on Member
+crop production
+(viii) Mission Director Member
+Secretary
+4.4 Function of the NFSMEC will be  to
+oversee the activities of the Mission and to
+approve the individual State Action Plans. The
+Chairman may nominate more members to
+the committee as per requirement.  The
+NFSMEC will meet once in every quarter.
+4.5 A National Food Security Mission Cell
+will be created in the Crops Division of DAC
+by deploying officers/staff from within the
+department. There would be three Additional
+Commissioners one each for rice, wheat and
+pulses and three Deputy Commissioners one
+each for the respective crops. Two Assistant
+Commissioners, Three Assistant Directors,
+Three STAs and supporting staff will also be
+placed in the Cell.
+4B. State Level
+4.6 A State Food Security Mission Executive
+Committee (SFSMEC) will be constituted by
+the State Governments under the chairmanship
+of Chief Secretary to oversee the activities of
+the Mission in the State. Secretary (Agriculture),
+Secretary (Irrigation), Secretary (Power) and
+representatives from other Departments
+concerned, State Agricultural Universities
+(SAUs), ICAR Institutes, Lead banks, etc. will
+be the members of the SFSMEC. A State
+Mission Director will be appointed in the
+scale of Director (from within the State
+Government or outside). The constitution of
+the State Food Security Mission Executive
+Committee (SFSMEC) will be as follows:
+(i) Chief S ecretary of Chairman
+the State
+(ii) Secretary (Agriculture) Member
+
+3
+(iii) Secretary (Irrigation) Member
+(iv) Secretary (Power) Member
+(v) Vice Chancellor(s) Member
+of SAUs
+(vi) Director/Project Director Member
+of ICAR Institutes
+(vii) Representatives of Member
+Lead banks
+(viii) State Mission Director Member
+Secretary
+4.7 The State Governments will have to
+nominate or create a suitable autonomous
+agency registered under the Societies
+Registration Act for implementing the Mission
+at the State and district levels.  The agency
+thus nominated will implement the Mission's
+programme in the State. Such an agency could
+be the State Agricultural Management &
+Extension Training Institute (SAMETI) at the
+State Level and the Agricultural Technology
+Management Agency (ATMA) at the district
+level.
+4.8 Separate accounts for the scheme
+would be maintained by the State and the
+District level Agencies as per the Account
+code prescribed by the NFSMEC. The annual
+accounts would be duly audited by a chartered
+accountant every year.
+4.9 The State Level Agency will have the
+following responsibilities:
+(i) Prepare perspective and State Action
+Plan in consonance with the
+Mission's goals and objectives and
+in close coordination with SAUs
+and ICAR Institutes.
+(ii) Organi ze / conduct baseline survey
+and feasibility studies in the area of
+operation (district, sub-district or a
+group of districts) to determine the
+status of crop production, its
+potential and demand. Similar
+studies would also be undertaken
+for other components of the
+programmes.
+(iii) Imple mentation of the Mission's
+programmes in the State through
+Farmers Societies, Non-Governmental
+Organizations (NGOs), Growers'
+associations, Self-Help Groups, State
+institutions and other similar entities.
+(iv) Organize workshops, seminars and
+training programmes for farmers and
+other stakeholders at the State level
+with the help of State Agricultural
+Universities and ICAR Institutes in
+the State.
+(v) Funds would be directly received
+by it from the National Food Security
+Mission to execute the approved
+Action Plan for the State.
+4C. District Level
+4.10 At the district level, the scheme will be
+implemented through the ATMA.  The State
+Level Agency will provide the required funds
+to the District Level Agency for execution of
+the programme at the district / block level.
+4.11 A District Food Security Mission
+Executive Committee (DFSMEC) will be
+constituted for project formulation,
+implementation and monitoring of the scheme
+components through the Agriculture
+Department. The District Collector or Chief
+Executive Officer of the Zilla Parishad (as per
+existing norms of the State Government) will
+be the Chairman of the DFSMEC.
+4.12 DFSMEC will have representatives from
+the line Departments concerned including
+SAUs, Krishi Vigyan Kendras (KVKs), ATMA,
+progressive farmers, self help groups of farmers
+
+4
+and reputed NGOs as its members. The Deputy
+Director (Agriculture) / District Agriculture
+Officer will be the Member Secretary of the
+DFSMEC. The  constitution of the  DFSMEC
+will be as follows:
+(i) District Collector/CEO
+of Zilla Parishad Chairman
+(ii) Representatives from
+line Departments Member
+(iii) Nomi nated progressive
+farmers Member
+(iv) Representatives from self
+help groups of farmers Member
+(v) Representatives  from
+reputed  NGOs Member
+(vi) Representative of KVK /
+SAU in the District Member
+(vii) Project Director ATMA Member
+(viii) Deputy Director
+(Agriculture)/District Member
+Agricultural Officer Secretary
+4.13 Chairman, DFSMEC may nominate
+additional officials/persons of importance as
+felt necessary by him.
+4D. Project Management Team
+4.14 A Project Management Team (PMT)
+will be constituted at the National level under
+the leadership of Mission Director. Six
+Consultants in identified fields of expertise
+and eight Senior Technical Assistants would
+be hired on contractual basis.
+4.15 A PMT will also be constituted at the
+State and the district level under the leadership
+of a Project Manager drawn from the State
+Government. At the State level, the Project
+Manager will be of the level of a Director.  At
+the district level, the project manager will be
+of the level of a Deputy Director (Agriculture)
+or the District Agriculture Officer.
+4.16 The PMTs will be assisted by technical
+experts to be appointed on contractual basis
+for technology transfer and implementation of
+the Mission. The PMTs will have the
+responsibility to ensure collaboration among
+various line departments in the Centre / State
+/District to achieve the targets. The appointment
+of technical manpower will be made on
+contract basis with the terms of reference laid
+down for the purpose by NFSMEC. The PMT
+will provide the technical services/advice.
+Honorarium to Project Management Team
+members will be fixed as per the extant
+financial norms. Essential and desirable
+qualifications for the candidates to be
+appointed for contractual services are given at
+Annexure-I.
+4.17 National/ state/district  PMT can engage
+need based experts with the permission of the
+General Council from fields like Publicity and
+Communications, Financial Management,
+Information Management etc. However, in no
+case the number of Technical Consultants will
+be less than four for the expertise in agriculture
+as per the qualifications given in the
+Annexure-I.
+4.18 The pay of Senior Technical Assistants
+will be regulated from time to time according
+to Research Associates in ICAR / NAIP
+Projects.
+4.19 The Project Management Team will
+have the following responsibilities:
+(a) Guide the States/districts in
+organizational and technical matters.
+(b) Help in the implementation and
+monitoring of the various
+interventions of the NFSM.
+(c) Assist the States/districts in capacity
+building programmes and record
+
+5
+the data on crop yield through crop
+cutting experiment samples.
+(d) Assist the district and state agencies
+in concurrent evaluation based on
+case studies in identified districts
+and document and disseminate the
+success stories.
+(e) Undertake publicity/information
+campaign to promote the Mission
+objectives.
+4.20 ICAR institutes/ SAUs, their research
+stations and   KVKs functioning in the district
+will provide technical support in formulation
+of projects, its implementation and monitoring.
+The technical staff will be sourced from these
+organizations for imparting training to the
+farmers and extension personnel involved in
+the implementation and monitoring of the
+NFSM.
+5. Role of Panchayati Raj
+Institutions
+5.1 Panchayati Raj Institutions will be
+actively involved in following activities:
+(i) Selection of beneficiary and
+identification of priority areas for
+the implementation of Mission
+interventions; and
+(ii) Implem entation of Local Initiatives
+in the identified districts.
+6. Area of Operation of Food
+Security Mission
+6.1 NFSM - Rice, NFSM - Wheat and
+NFSM - Pulses will be implemented in 136,
+141 and 171 identified districts of different
+States, respectively. List of the identified
+districts is given at Annexure-II(a) to II(c) .
+6.2 The GC, based on the latest available
+data, is empowered to include or exclude the
+districts for implementation of various
+components of the Mission.
+7. Mechanism of Fund Flow
+7.1 Funds for implementing the Mission's
+programme will be directly released to the
+State Level Agency with the approval of the
+NFSMEC. The State Level Agency would make
+funds available to the District Level Agency in
+accordance with approved programme of the
+district. Funds would be released in
+installments based on the progress reports and
+submission of utilization certificates.
+7.2 The funds for the implementation of
+the activities of the components will be released
+by the State/District Level Agency to the nodal
+departments which will procure the required
+inputs for the district. The nodal departments
+will submit the utilization certificate to the
+State/District Level Agency which, will be
+compiled and a consolidated utilization
+certificate, duly authenticated by the DFSMEC
+and SFSMEC will be submitted to the Ministry
+of Agriculture, Govt. of India for further releases.
+7.3 As far as possible 'electronic banking'
+will be used for transfer of  funds to the State
+Level Agency and to the districts. The State
+Level Agency will have to maintain a separate
+budget and prescribed accounting system for
+the Mission, both at the State and district level.
+8. Monitoring
+8.1 The National Food Security Mission
+will have a strong mechanism of monitoring
+and evaluation with the involvement of all the
+implementing agencies and the line
+departments. At the district level, monitoring
+will be undertaken by DFSMEC supported by
+the Project Management Team.

@@ -1,0 +1,388 @@
+GOVERNMENT PDF SOURCE: https://agritech.tnau.ac.in/govt_schemes_services/NFSMXII.pdf
+CATEGORY: Central_and_State_Other_Schemes
+TYPE: Official Scheme Circular
+============================================================
+
+NATIONAL FOOD SECURITY MISSION 
+OPERATIONAL GUIDELINES 
+(12th Five Year Plan) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Agriculture & Cooperation 
+Ministry of Agriculture 
+Government of India 
+Krishi Bhawan, New Delhi-110001
+
+TAB LE OF  CONTENT S 
+   S. No           Contents                            Page No. 
+1. I n t r o d u c t i o n                                                                                                                     1 
+2.  O b j e c t i v e s              1 
+3. S t r a t e g y              1 
+4.  S t r u c t u r e              2 
+ 4 . 1 N a t i o n a l  L e v e l                                                                   2  
+ 4 . 2 S t a t e  L e v e l                                                       4  
+ 4 . 3 D i s t r i c t  L e v e l                                                                                  5  
+ 4 . 4 P r o j e c t  M a n a g e m e n t  T e a m s                                                                                                                    6  
+5 . R o l e  o f  P a n c h a y a t i  R a j  I n s ti t u t i o n s                                                                                                                   7 
+6 . A r e a  o f  O p e r a t i o n                        7 
+7 . M e c h a n i s m  o f  F u n d  F l o w           8 
+8 . P r o c e d u r e  f o r  A p p r o v a l  a n d  I m p l e m e n t a t i o n  o f  A n n u a l  p l a n s             8 
+9 . M o n i t o r i n g  m e c h a n i s m          9  
+1 0 . R e p o r t i n g  S y s t e m           9 
+1 1 . E v a l u a t i o n            1 0  
+1 2 . C r i t e r i a  f o r  I d e n t i f i c a t i o n  o f  A r e a s  a n d  B e n e f i c i a r i e s        1 0 
+1 3 .  P o s i t i o n  o f  O n g o i n g  S c h e m e s           1 1 
+1 4 .  I n t e r v e n t i o n s          1 1  
+ 1 4 . 1   A c c e l erated Crop Production Programme           11  
+ 14.2 Need based inputs (Seed, IPM, INM, Machines and Training)   14 
+ 1 4 . 3        C o m m e r c i a l  c r o p s  b a s e d  c r o p p i n g  s y s t e m                                                    1 7 
+ 14.4.     Research Support   17 
+ 1 4 . 5 O t h e r  I n i t i a t i v e s                                                                                                       18 
+ 14.6  Exposure visit to International Organizations                                                  21 
+ 14.7   A w a r d s                                                                                  2 1 
+ 1 4 . 8    Local Initiatives                                                                                             22 
+ 14.9 M i s c e l l a n e o u s  E x p e n s e s                                                                                     22 
+A n n e x u r e-I  ( a )    -B a s i c  q u a l i f i c a t i o n ,  e x p e r i e n c e  a n d  h o n o r a r i u m  o f  A d v i s o r s / C o n s u l t a n t s / 
+T e c h n i c a l      A s s i s t a n t s     2 4 
+Annexure-I (b)  -  Crop wise No. of Districts and No. of State and District PMT in NFSM States   26 
+A n n e x u r e-I ( c )     -  N a m e s  o f  P M T  D i s t r i c t s   2 7  
+A n n e x u r e-I  ( d )    -   D u t i e s  o f  C o n s u l t a n t s / T A s  e n g a g e d  a t  n a t i o n a l / S t a t e / d i s t r i c t  l e v e l s    33 
+A n n e x u r e-I  ( e )    -     M o d e l  A c t i v i t y  M a p   3 6 
+A n n e x u r e-I I  ( a )  -   D i s t r i c t s  c o v e r e d  u n d e r  N F S M-R i c e                       3 8  
+A n n e x u r e-I I  ( b )  - D i s t r i c t s  c o v e r e d  u n d e r  N F S M-W h e a t         4 1  
+A n n e x u r e-I I ( c )    - D i s t r i c t s  c o v e r e d  u n d e r  N F S M-P u l s e s         43  
+A n n e x u r e-I I  ( d )  - D i s t r i c t s  c o v e r e d  u n d e r  N F S M-C o a r s e  C e r e a l s         4 9  
+A n n e x u r e-I I I  ( a )  -  A c t i o n  P l a n  f o r  N F S M-R i c e                         52 
+A n n e x u r e-I I I  ( b )  - A c t i o n  P l a n  f o r  N F S M-W h e a t                53 
+A n n e x u r e-I I I  ( c )  - A c t i o n  P l a n  f o r  N F S M-P u l s e s            54 
+A n n e x u r e-I I I  ( d )  -  A c t i o n  P l a n  f o r  N F S M-C o a r s e  C e r e a l s          5 5 
+A n n e x u r e-I V  ( a )  - Quarterly/Annual Progress Report of NFSM-Rice      56 
+A n n e x u r e-I V  ( b )  - Quarterly/Annual Progress Report of NFSM-Wheat        57  
+A n n e x u r e-I V ( c )  - Quarterly/Annual Progress Report of NFSM-Pulses             58  
+A n n e x u r e-I V  ( d )  - Quarterly/Annual Progress Report of NFSM-Coarse Cereals             59   
+A n n e x u r e-V       -  S u m m a r y  o f  P a t t e r n  o f   A s s i s t a n c e f or f o o d g r a i n  c r o p s              6 0    
+A n n e x u r e-V I       -  C a f e t e r i a  o f  I n t e r v e n t i o n s  f o r  B l o c k  d e m o n s t r a t i o n               62 
+Annexure-VII    - Summary of Pattern of  Assistance for commercial crops         66 
+A n n e x u r e-V I I I      - Component wise financial provision for promotion of farmer producer   
+organizations (FPOs) and marketing support for value chain integration           68
+
+ABBREVIATIONS 
+ 
+A C P P A c c e l e r a t e d  C r o p  P r o d u c t i o n  P r o g r a m m e 
+A P R A n n u a l  P r o g r e s s  R e p o r t 
+A T M A A g r i c u l t u r a l  T e c h n o l o g y  M a n a g e m e n t  A g e n c y 
+              CCI                      Cotton Corporation of India 
+C D D                       C r o p  D e v e l o p m e n t  D i r e c t o r a t e 
+C I A E C e n t r a l  I n s t i t u t e  o f  A g r i c u l t u r a l  E n g i n e e r i n g 
+CICR Central Institute of Cotton Research 
+CRIJAF Central Research Institute of Jute and Allied Fibers 
+C R R I C e n t r a l  R i c e  R e s e a r c h  In s t i t u t e 
+C S C C e n t r a l  S e e d s  C o m m i t t e e 
+C Y M M I T I n t e r n a t i o n a l  M a i z e  a n d  W h e a t  I m p r o v e m e n t  C e n t e r 
+D A C D e p a r t m e n t  o f  A g r i c u l t u r e  a n d  C o o p e r a t i o n 
+D F S M E C D i s t r i c t  F o o d  S e c u r i t y  M i s s i o n  E x e c u t i v e  C o m m i t t e e 
+DOCD Directorate of Cotton Development 
+DOJD Directorate of Jute Development 
+DOSD Directorate of Sugarcane Development 
+D R R D i r e c t o r a t e  o f  R i c e  R e s e a r c h 
+D W R D i r e c t o r a t e  o f  W h e a t  R e s e a r c h 
+ELS Extra Long Staple Cotton 
+FLDs Front Line Demonstrations 
+FPO Farmer -Producer Organization 
+G C G e n e r a l  C o u n c i l 
+HDPS High Density Planting Systems 
+H Y V H i g h  Y i e l d i n g  V a r i e t y 
+I C A R I n d i a n  C o u n c i l  o f  A g r i c u l t u r a l  R e s e a r c h 
+I C D P I n t e g r a t e d  C e r e a l  D e v e l o p m e n t  P r o g r a m m e 
+I C R I S A T I n t e r n a t i o n a l  C r o p s  R e s e a r c h  I n s t i t u t e  f o r  t h e  S e m i  - A r i d  T r o p i c s 
+I C T I n f o r m a t i o n  C o m m u n i c a t i o n  T e c h n o l o g y 
+I N M I n t e g r a t e d  N u t r i e n t  M a n a g e m e n t 
+I I P R I n d i a n  I n s t i t u t e  o f  P u l s e s  R e s e a r c h 
+I P M I n t e g r a t e d  P e s t  M a n a g e m e n t 
+IRM Insecticide Resistance Management 
+I N M I n t e g r a t e d  N u t r i e n t  M a n a g e m e n t 
+I P M I n t e g r a t e d  P e s t  M a n a g e m e n t 
+I R R I   I n t e r n a t i o n a l  R i c e  R e s e a r c h  I n s t i t u t e 
+IISR Indian Institute of Sugarcane Research 
+I I S S I n d i a n  I n s t i t u t e  o f  S o i l  S c i e n c e 
+J T M J u t e  T e c h n o l o g y  M i s s i o n 
+K V K K r i s h i  V i g y a n  K e n d r a 
+N A B A R D N a t i o n a l  B a n k  f o r  A g r i c u l t u r e  a n d  R u r a l  D e v e l o p m e n t 
+N A F E D N a t i o n a l  A g r i c u l t u r a l  C o o p e r a t i v e  M a r k e t i n g  F e d e r a t i o n  o f  India Limited 
+N A L M O T N a t i o n a l  L e v e l  M o n i t o r i n g  T e a m 
+NCIPM National Centre for Integrated Pest Management 
+N D C N a t i o n a l  D e v e l o p m e n t  C o u n c il
+
+N F S M N a t i o n a l  F o o d  S e c u r i t y  M i s s i o n 
+N F S M E C N a t i o n a l  F o o d  S e c u r i t y  M i s s i o n  E x e c u t i v e  C o m m i t t e e 
+N G O N o n-G o v e r n m e n t  O r g a ni z a t i o n s 
+N S C N a t i o n a l  S e e d s  C o r p o r a t i on 
+NIRJAFT National Institute of Research on Jute & Allied Fiber Technology 
+OPMAS On Line Pest Monitoring and Advisory Services 
+P M T P r o j e c t  M a n a g e m e n t  T e a m 
+QP R Q u a r t e r l y  P r o g r e s s  R e p o r t 
+S A M E T I S t a t e  A g r i c u l t u r a l  M a n a g e m e n t  a n d  E x t e n s i o n  T r a i n i n g  I n s t i t u t e 
+S A U S t a t e  A g r i c u l t u re U n i v e r s i t y 
+SBI Sugarcane Breeding Institute 
+SDA State Department of Agriculture 
+SFAC Small Farmers Agri-business Consortium 
+SSC State Seed Corporation 
+SSCA State Seed Certification Agency 
+S C S c h e d u l e  C a s t e 
+S C S e e d  C o m m i t t e e 
+S C P S p e c i a l  C o m p o n e n t  P l a n 
+S F C I S t a t e  F a r m s  C o r p o r a t i o n  o f  I n d i a 
+S F S M E C S t a t e  F o o d  S e c u r i t y  M i s s i o n  E x e c u t i v e  C o m m i t t e e 
+S H G s S e l f  H e l p  G r o u p s 
+S R I S y s t e m  o f  R i c e  I n t e n s i f i c a t i o n 
+SSCA State Seed Certification Agency 
+S T S c h e d u l e  T r i b e 
+T S P T r i b a l  S u b-P l a n 
+T M C T e c h n o l o g y  M i s s i o n  o n  C o t t o n 
+VSI Vasant Dada Sugar Institute 
+UPCSR Uttar Pradesh Council of Sugarcane Research
+
+1 | P a g e  
+ 
+ National Food Security Mission  
+ 
+Operational Guidelines 
+ 
+1 . Introduction 
+ 
+1.1 The N a t i o n a l  D e v e l o p m e n t  C o u n c i l  ( N D C )  i n  i t s  5 3 r d  m e e t i n g  h e l d  o n  2 9 t h  M a y ,  2 0 0 7  a d o p t e d  
+a resolution to launch a Food Security Mission comprising rice, wheat and pulses to increase the 
+a n n u a l  p r o d u c t i o n  o f  r i c e  b y  1 0  m i l l i o n  t o n s ,  w h e a t  b y  8  m i l l i o n  t o n s  a n d pulses by 2 million tons by 
+the end of the Eleventh  Plan (2011 -12).  Accordingly, a Centrally Sponsored Scheme, 'National Food 
+Security Mission' (NFSM), was launched in October 2007. The Mission met with an overwhelming 
+success and achieved the targeted additional production of rice, wheat and pulses.  The Mission is 
+being continued during 12th Five Year Plan with new targets of additional production of food grains 
+o f  2 5  m i l l i o n  t o n s  o f  f o o d  g r a i n s  c o m p r i s i n g  o f  1 0  m i l l i o n  t o n s  r i c e ,  8  million tons of whea t ,  4  million 
+tons o f  p u l s e s  a n d  3  million tons o f  c o a r s e  c e r e a l s  b y  t h e  e n d  o f  1 2 t h  F i v e  Y e a r  P l a n .  B a s e d  o n  p a s t  
+experience and feedback received from the States major changes have been made in approach, 
+norms of financial assistance and programme implem entation strategy which are reflected in the 
+revised operational guidelines.  
+1.2 The National Food Security Mission (NFSM) during the 12th Five Year Plan will have five 
+components (i) NFSM - Rice; (ii) NFSM -Wheat; (iii) NFSM -Pulses, (iv) NFSM -Coarse cereal s and (v) 
+NFSM-Commercial Crops. 
+2 .  O b j e c t i v e s 
+ 
+2.1 Increasing production of rice, wheat,  pulses and coarse cereals through  area  expansion and 
+productivity  enhancement  in  a  sustainable manner  in  the  identified  districts  of  the country; 
+ 
+2.2 Restoring soil fertility and productivity at the individual farm level; and  
+ 
+2.3     Enhancing farm level economy (i.e. farm profits) to restore confidence amongst the farmers. 
+3 . S t r a t e g y   
+To achieve the above objectives, the Mission would adopt following strategies:  
+i. Focus on low productivity and high potential districts including   cultivation of food grain crops 
+in rain fed areas. 
+ii. Implementation of cropping system centric interventions in a Mission mode approach through 
+active engagement of all the stakeholders at various levels. 
+iii. Agro-climatic zone wise planning and cluster approach for crop productivity enhancement.
+
+2 | P a g e  
+ 
+iv. Focus on pulse production through utilization of rice fallow , rice bunds   and intercropping of 
+pulses with coarse cereals, oilseeds and commercial crops (sugarcane, cotton, jute).  
+v. Promotion  and  extension  of improved technologies i.e., seed, integrated  nutrient  
+management (INM) including micronutrients, soil amendments,  i ntegrated  pest 
+management (IPM), input  use efficiency   and resource conservation  technologies along with 
+capacity building of the farmers/extension functionaries. 
+vi. Close monitoring of fl o w  o f  f u n d s  t o  ensure timely  reach of  interventions to the  target 
+beneficiaries. 
+vii. Integration of v arious proposed interventions and targets with  the district plan of each  
+identified district. 
+viii. Constant monitoring and concurrent evaluation  by the implementing agencies  for assessing 
+the impact of the interventions for a result oriented approach. 
+4 .  S t r u c t u r e 
+4.1 National Level 
+ 
+4.1.1 The General Council (GC) constituted under the chairmanship of the Union Agriculture 
+Minister would continue to function in 12th Plan. The Mission Director will continue to function as 
+Member-secretary of the GC. The composition of the GC will remain as under: 
+( i ) Minister of Agriculture     C h a i r m a n 
+( i i ) S e c r e t a r y  ( A & C )     M e m b e r 
+( i i i ) S e c r e t a r y  ( D A R E )  &D G  ( I C A R )     M e m b e r 
+( i v ) S e cr eta ry     M e m b e r 
+   Department of Expenditure,  
+   Ministry of F i n a n c e 
+( v ) Secretary     Member 
+   Department  of Food and Public distribution 
+   Ministry of Food, Consumers Affairs  and Public Distribution 
+(vi) Secretary,     Member  
+   Ministry of Panchayati Raj 
+(vii) Secretary,     M e m b e r 
+      M i n i s t r y  o f  T r i b a l  A f f a i r s  
+(viii) Secretary   M e m b e r    
+                 D e p a r t m e n t  o f  S o c i a l  J u st i ce  a n d  E m p o w e r m e n t 
+               M i n i st r y o f  S o c i a l  J u st i ce  a n d  E m p o w e r m e n t  
+(ix) Secretary      M e m b e r 
+Ministry of Women and Ch i l d  D e v e l o p m e n t 
+(x) Adviser ( A g r i c u l t u r e )          M e m b e r 
+                    P l a n n i n g  C o m m i s s i o n 
+( x i ) Agriculture Commissioner ,DAC          Member
+
+3 | P a g e  
+ 
+( x i i ) Mission Director , NFSM          M e m b e r  s e c r e t a r y 
+  
+4.1.2 The GC is the policy making body  providing  suitable  directives  and  
+guidance to the Mission and reviewing the overall  progress  and  development  of  the scheme. The 
+GC is empowered to lay down and amend the operational guidelines, decide need based re -allocation 
+o f  r e s o u r c e s  a c r o s s  S t a t e s  a n d  d i s t r i c t s  a n d  a p p r o v e  p r o j e cts as per the requirements. The GC will 
+meet at least twice a year. 
+4.1.3 The National  Food  Security  Mission Executive  Committee (NFSMEC)  would continue under  
+t h e  C h a i r m a n s h i p  o f  S e c r e t a r y ,   D e p a r t m e n t   o f   A g r i c u l t u r e   &  C o o p e r a t i o n  t o  o v e r s e e  t h e  activities 
+of the Mission and to approve the annual State Action Plans.The constitution of NFSMEC is as under: 
+( i ) S e c r e t a r y  ( A & C )                   C h a i r m a n 
+( i i ) S e c r e t a r y  ( D A R E )  &D G  ( I C A R )      M e m b e r 
+( i i i ) Secretary,                      M e m b e r   
+M in ist ry o f Wat er R e s o u r c e s 
+( i v ) S e c r e t a r y , 
+ D e p a r t m e n t  o f     Fertilizers   M e m b e r  
+(v) Secretary,     Member  
+  Ministry of Panchayati Raj 
+(vi) Secretary,     M e m b e r 
+             M i n i s t r y  o f  T r i b a l  A f f a i r s 
+(vii) Secretary     M e m b e r    
+           D e p a r t m e n t  o f  S o c i a l  J u s t i c e  a n d  E m p o w e r m e n t 
+             Ministry of Social Justice and Empowerment 
+(viii) Secretary     M e m b e r 
+    Ministry of Women and Ch i l d  D e v e l o p m e n t 
+(ix) Adviser ( A g r i c u l t u r e ) ,                        M e m b e r 
+ P l a n n i n g  C o m m i s s i o n 
+( x ) Agriculture Commissioner              Member 
+( x i ) Five  Ex p e r t s                                                                 M e m b e r 
+( x i i ) Mission Director                                                         M e m b e r- s e c r e t a r y 
+ 
+4.1.4  T h e  C h a i r m a n  m a y  n o m i n a t e  a d d i t i o n a l  m e m b e r s  t o  t h e  c o m m i t t e e  a s  p e r  r e q u i r e m e n t .   T h e  
+NFSMEC will meet once in every quarter. 
+4.1.5 A National Food Security Mission Cell created in the Crops Division during 11th Plan will  
+continue in 12 th Plan. The cell will have three Additional Commissioners, three Deputy 
+Commissioners, two Assistant Commissioners, three Assistant Directors, three STAs  and supporting 
+staff.
+
+4 | P a g e  
+ 
+4 . 2 S t a t e  L e v e l  
+ 
+4.2.1 The State Food Security Mission Executive Committee (SFSMEC) constituted by the State 
+Government under the chairmanship of Chief Secretary to oversee the activities of the Mission in the 
+State will continue. The constitution of the State Food Security Mission Executive Committee 
+(SFSMEC) is as follows: 
+( i ) C h i e f  S e c r e t ar y           C h a i r m a n 
+( i i )  A g r i c ul t u r e  P r o d u c t i o n  C o m m i s s i o n e r     M e m b e r 
+( i i i ) S e c r e t a r y  ( A g r i c u l t u r e )      M e m b e r   
+( i v ) S e c r e t a r y  (I r r i g a t i o n )    M e m b e r 
+( v ) S e c r e t a r y  (P o w e r )    M e m b e r 
+( v i ) Secretary (Panchayati Raj)    M e m b e r 
+( v i i ) S e c r e t a r y  ( T r i b a l  A f f a i r s )    M e m b e r 
+( v i i i ) Secretary (Social W e l f a r e  De p a r t m e n t )   M e m b e r 
+( i x )   Vice Chancellor(s)o f  S A U s    M e m b e r 
+( x )  D i r e c t o r  A g r i c u l t u r e    M e m b e r 
+( x i )  Director/Project Director    Member  
+o f  ICA R In st it u t es 
+( x i i )  R e p r e s e n t a t i v e s  o f    M e m b e r 
+   N A B A R D  a n d  L e a d  Ba n k 
+( x i i i )  State Mission Director    M e m b e r-S e c r e t a r y  
+       
+4.2.2 The State Governments have  nominated/created a suitable autonomous agency registered 
+under the Societies Registration Act for implementing the Mission at the State and district levels  
+during 11th Plan.  Such an agency could be the State Agricultural Management & Extension Training 
+Institute (SAMETI) at the State Level and the Agricultural Technology Management Agency (ATMA) at 
+t h e  d i s t r i c t  l e v e l .  T h e  a g e n c y  t h u s  n o m i n a t e d  w i l l  i m p l e m e n t  t h e  M i s s i o n ' s  p r o g r a m m e  i n  t h e  S t a t e  
+during 12th Plan. 
+4.2.3 Separate accounts for the scheme would be maintained by t he State and the District level 
+A g e n c i e s  a s  p e r  t h e  A c c o u n t  c o d e  p r e s c r i b e d  b y  t h e  N F S M E C .  T h e  annual accounts  would be duly 
+audited by a chartered accountant every year. 
+4.2.4 The State Level Agency will have the following responsibilities: 
+(i) Prepare perspective and annual S t a t e  A c t i o n  P l a n  i n  c o n s o n a n c e  w i t h  t h e  M i s s i o n ' s  g o a l s  a n d  
+objectives and in close coordination with SAUs and ICAR Institutes. 
+(ii) Organize / conduct baseline survey and feasibility studies  in the area of operation (district, 
+sub-d i s t r i c t  o r  a  g r o u p  o f  d i s t r i c t s )  t o  d e t e r m i n e  t h e  s t a t u s  o f  c r o p  p r o d u c t i o n ,  i t s  p o t e n t i a l  
+and demand.  Similar studies would also be undertaken for other components of the 
+programmes.
+
+5 | P a g e  
+ 
+(iii) Implementation of the Mission's  activities  in the State through Farmers Societies, Non -
+Governmental Organizations (NGOs), Growers' associations, Self -Help Groups (SHGs), State 
+institutions and other similar entities. 
+(iv)  Organize workshops, seminars and training programmes for farmers and other stakeholders at 
+the State level in collaboration with SAUs and ICAR Institutes.  
+(v) E x e c u t i o n  o f  approved Action Plan for the State from fund received from Government of India for 
+National Food Security Mission. 
+4 . 3 District Level 
+ 
+4.3.1 At the district level, the scheme will be implemented through ATMA.  The State Level Agency 
+will provide the required funds to the District  Level Agency for execution of the programme at 
+the district/block level. 
+4.3.2 A District Food Security Mission Executive Committee (D FSMEC) constituted in 11th Plan will 
+continue to function for project   formulation, implementation and monitoring of the scheme 
+components through the Agriculture Department. 
+4.3.3 DFSMEC has representatives from  the line Departments concerned including SAUs, Krishi 
+Vigyan Kendras (KVKs), ATMA, progressive farmers, SHGs of f a r m e r s  a n d  r e p u t e d  N G O s  a s  i t s  
+members. The Deputy Director (Agriculture)/District Agriculture Officer is the Member 
+Secretary of the DFSMEC. The constitution of the DFSMEC is as follows: 
+( i ) District Collector/CEO 
+ of Zilla Parishad  C h a i r m a n 
+(ii) R e p r e s e n t a t i v e s  f r o m 
+ l i n e  D e p a r t m e n t s  M e m b e r   
+(iii)  N o m i n a t e d  p r o g r e s s i v e 
+ f a r m e r s  M e m b e r   
+( i v )   R e p r e s e n t a t i v e s  f r o m  Se l f 
+ He l p  Groups of farmers  M e m b e r 
+( v ) R e p r e s e n t a t i v e s  f r o m 
+ reputed  NGOs  M e m b e r   
+( v i )   R e p r e s e n t a t i v e  o f  K V K  /I C A R/ 
+ SAU   M e m b e r 
+(vii)  P ro je ct D ir e ctor  ATM A  M e m b e r   
+( v i i i )  R e p r e se n t at i v e f ro m  L e a d  B a n k  an d  N A B A R D M e m b e r
+
+6 | P a g e  
+ 
+(ix) Deputy Director 
+ ( A g r i c u l t u r e ) / D i s t r i c t  M e m b e r 
+ A gri cu ltur al Off i ce r  S e c r e t a r y 
+ 
+4.3.4 Chairman, DFSMEC may nominate additional officials/persons of importance as felt necessary. 
+4.4    Project Management Team 
+4.4.1 The Project Management Team (PMT) constituted at the National level will continue to 
+function under the leadership of the Mission Director.  Advisors/Consultants in identified 
+fields of expertise, Program Manager, Senior Programmers , Technical Assistants, and 
+supporting staff will form part of the national PMT. 
+4.4.2  PMTs constituted at the State and the district levels would continue in 12th Plan. States with 
+more than 15 districts under NFSM would be eligible for additional one state level Consultant 
+and two Technical Assistants for every additional 15 di stricts. T h e  s t a t e s  m a y  e n g a g e  o n e  
+accountant in place of one TA at State Head Quarter to assist in preparation  and maintenance 
+of accounts etc . The districts covered under NFSM will be entitled for one PMT if the area 
+under any one of the NFSM crops is at  least 10000 ha. In addition, Crop Development 
+Directorates will  be provided with one State level Consultant and two Technical Assistants 
+each. The number of PMTs provided for each state is given in Annexure-I (b). In addition, Rs. 
+1.2 lakh is allowed annually for hiring the vehicle to each District and State PMT for field visits. 
+List of districts having provision of PMT is given in Annexure-I(c). 
+4.4.3 The State/district PMTs constituted will continue to function under the leadership of the State 
+Mission Director/District Agriculture Officer. The State/district Consultants and Technical 
+Assistants would be members of the PMT . The PMTs will have the responsibility to ensure 
+collaboration among various line departments in the Centre / State /District to achieve the 
+targets. The appointment of technical manpower will be made on contract basis with the 
+terms of reference laid down for the purpose by NFSMEC. The PMT will provide the technical 
+services/advice. Basic qualifications and experience for the candi d a t e s  o f  P M T s  a l o n g  w i t h  
+honorarium to be appointed on contractual services are given at Annexure-I(a). Duties of 
+Consultants and Technical Assistants are given in Annexure-I (d). 
+4.4.4 The Project Management Team will have the following responsibilities: 
+(a)Guide the States/districts in organizational and technical matters. 
+(b)Help in the implementation and monitoring of the various interventions of the Mission. 
+(c)Assist the States/districts in capacity building programmes and record the data on crop 
+yield through crop cutting experiments.

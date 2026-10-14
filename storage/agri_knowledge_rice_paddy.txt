@@ -1,0 +1,18 @@
+﻿TITLE: TNAU Rice Irrigation and Water Management Guide (நெல் சாகுபடி நீர் மேலாண்மை)
+CATEGORY: Rice_Paddy_Water_Management
+=================================================================
+
+1. Rice Irrigation Practices (நெல் பாசன முறைகள்):
+- Initial establishment (நடவு பருவம்): Maintain shallow depth of 2 cm of water for the first 7 to 10 days to help seedling roots establish firmly.
+- Tillering phase (தூர் கட்டும் பருவம்): Maintain water level between 2.5 cm and 5 cm. Avoid excessive flooding.
+- Panicle Initiation & Flowering (பூக்கும் மற்றும் பால் பிடிக்கும் பருவம்): Critical moisture stage. Keep a steady 5 cm water depth to prevent unfilled grains.
+- Pre-harvest drainage: Drain field completely 10 days before harvest to hasten maturity and ease mechanical harvesting.
+
+2. Alternate Wetting and Drying - AWD / Pani Pipe Method (மாற்று உலர் மற்றும் நனைத்தல் முறை):
+- Install a perforated plastic or bamboo tube (Pani pipe) into the field to observe water drop levels.
+- Re-irrigate only when water level drops to 15 cm below soil surface.
+- Saves up to 30% water without reducing yield and lowers field methane emissions.
+
+3. System of Rice Intensification - SRI (செம்மை நெல் சாகுபடி):
+- Practice intermittent irrigation (காய்ச்சலும் பாய்ச்சலுமாக பாசனம்) instead of continuous flooding.
+- Irrigate when hairline cracks appear on the soil surface during vegetative stage.
